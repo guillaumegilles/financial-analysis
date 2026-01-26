@@ -1,0 +1,71 @@
+/* ==========================================================
+   Clean Pixel Theme — Readable Retro Style
+   ========================================================== */
+
+/*-- scss:defaults --*/
+
+/* ----------------------------------------------------------
+   Color Palette — bright, readable, limited
+----------------------------------------------------------- */
+
+$black:  #000 !default;
+$white:  #fff !default;
+
+$gray-50:  #f7f7f7 !default;
+$gray-100: #eeeeee !default;
+$gray-200: #cccccc !default;
+$gray-800: #333333 !default;
+
+$blue:    #3b5dc9 !default;
+$red:     #d62411 !default;
+$green:   #2ecc40 !default;
+$yellow:  #fcd12a !default;
+$cyan:    #00d4ff !default;
+$purple:  #9b30ff !default;
+$orange:  #ff8800 !default;
+
+/* Bootstrap theme colors */
+$primary:   $blue;
+$secondary: $gray-800;
+$success:   $green;
+$danger:    $red;
+$warning:   $yellow;
+$info:      $cyan;
+$light:     $gray-100;
+$dark:      $black;
+
+/* Background & text (light mode for readability) */
+$body-bg:    $gray-50 !default;
+$body-color: $black !default;
+
+/* ----------------------------------------------------------
+   Typography
+----------------------------------------------------------- */
+
+/* a clean retro monospace font */
+$web-font-path: "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap";
+@if $web-font-path {
+  @import url($web-font-path);
+}
+
+$font-family-sans-serif: "JetBrains Mono", monospace !default;
+$font-size-base: 1.05rem !default;
+$line-height-base: 1.4 !default;
+
+/* No harsh shadows */
+$enable-shadows: false !default;
+
+/* Pixel-ish but clean */
+$enable-rounded: false !default;
+$border-width: 2px !default;
+
+/* ----------------------------------------------------------
+   Base
+----------------------------------------------------------- */
+
+body {
+  background-color: $body-bg;
+  color: $body-color;
+  text-shadow: none;
+}
+
