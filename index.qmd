@@ -1,5 +1,5 @@
 ---
-title: "Financial and Strategic Analysis"
+title: "Syllabus"
 subtitle: "Hello world"
 description: |
   Diagnostic sur les comptes individuels et sur les comptes consolidés.
@@ -325,3 +325,90 @@ Pour valoriser l’engagement, la créativité et la curiosité.
 | 💬 **Feedback Constructif**   | Aide à améliorer le cours ou le jeu              | Retour écrit ou oral |
 
 -->
+
+
+		M2 Banque d'Affaires & Ingénierie Financière
+Matière : Analyse Financière et Stratégique de l'Entreprise
+Intervenant : GILLES Guillaume 
+Volume horaire : 18 
+Langue d’enseignement : Français
+
+Résumé du cours (objectifs pédagogiques et professionnels)
+•	Diagnostic sur les comptes individuels et sur les comptes consolidés.
+•	Étude de la profitabilité, de la solvabilité, de la structure financière et de la rentabilité (ROCE, ROE).
+•	Analyse de sociétés cotées et de sociétés non cotées.
+
+Connaissances et compétences RNCP visées 
+•	Mener une veille économique, règlementaire, juridique et fiscale (projet de loi Finances, directive CSRD, normes IFRS, US Gap, AMF etc.) afin de construire une stratégie financière qui soutiendra l’activité et de développement de l’organisation dans le respect des normes nationales et internationales en vigueur dans son secteur et sur son marché.
+•	Analyser le modèle économique de l’organisation, sa stratégie RSE, son marché afin d’identifier les forces, les faiblesses, les opportunités et les risques et de co-construire, avec la Direction, sa stratégie et son business plan.
+•	Piloter la réalisation des états financiers (bilan, compte de résultat et tableau de flux de trésorerie) en veillant à la qualité des données et au respect des normes (IFRS, GAAP…) afin de produire des documents fiables qui pourront être communiqués aux parties prenantes internes et externes et qui pourront servir de base à la prise de décisions.
+•	Piloter la réalisation des déclarations de performance extra-financière en veillant à la qualité des données intégrées dans les critères ESG afin de produire des rapports qui présentent la stratégie RSE aux parties prenantes internes et externes.
+•	Analyser les éléments financiers de l’organisation à partir des états produits précédemment via des ratios pertinents (ratios de liquidité, de solvabilité, de rentabilité, BFR etc.) et synthétiser les données afin d’évaluer sa solidité financière, sa solvabilité et sa performance.
+•	Concevoir la stratégie financière de l’entreprise (planification financière à moyen et long terme, budgets, plan de trésorerie) en fonction des choix stratégiques de l’entreprise et de sa politique RSE, afin de valider avec la direction générale des objectifs communs, d’identifier les moyens pour les atteindre et de sécuriser l’activité de l’entreprise.
+•	Décliner la stratégie RSE de l’entreprise en critères ESG et piloter la mise en place de la mesure de ces critères afin de soutenir la politique RSE de l’entreprise, de la mesurer et de produire les déclarations de performance extra-financière.
+•	Concevoir et animer le processus budgétaire en lien avec les différentes fonctions de l’organisation et avec le contrôle de gestion, en reflétant la stratégie définie afin d’atteindre les objectifs financiers et d’assurer sa performance financière.
+
+Contenu par séance et / ou plan de cours (notions, exercices, études de cas)
+Séance 1 : lundi 1er décembre 2025
+
+
+Séance	Date	Contenu de la séance	Type de cours	Travail préparatoire
+1	01/12	Comprendre et diagnostiquer
+•	Lecture et diagnostic rapide d’un bilan et compte de résultat simplifié. Objectif : repérer points forts/faibles.
+•	Veille réglementaire (IFRS vs GAAP, CSRD, rôle de l’AMF).
+•	Chaque équipe présente un mini-diagnostic stratégique. Feedback croisé : autres équipes = investisseurs qui posent des questions.	Magistral	
+2	17/02	Ratios et performance
+•	Calcul des principaux ratios (ROE, ROCE, solvabilité, BFR).
+•	Étude de cas : comparaison d’une société cotée (CAC40) et d’une PME non cotée.
+•	Challenge en mode escape game financier : trésorerie en tension. Les équipes doivent proposer 3 leviers stratégiques (financement, optimisation BFR, croissance externe).	Magistral	Fiche synthétique sur les principaux ratios financiers (ROE, ROCE, solvabilité, liquidité, BFR).
+Sur le rapport annuel choisi au Jour 1 → relever les données nécessaires pour calculer :
+Capitaux propres, EBIT, dettes financières, BFR. Calculer au moins 2 ratios et noter leurs interprétations.
+3	18/03	La quête ultime : de l’analyse à la stratégie
+•	Étude de l’intégration ESG dans la stratégie financière. Chaque équipe doit traduire une politique RSE en impacts financiers concrets.
+•	Atelier en groupe : construction d’une mini-planification financière (budgets + cash-flow prévisionnel).
+•	Restitution finale → pitch stratégique de 10 min par équipe devant jury.	Magistral	Lire la Déclaration de Performance Extra-Financière (DPEF) ou section RSE d’un rapport annuel. Compléter par un court article d’actualité (ex. sur green bonds, taxe carbone, ou financement durable).
+Identifier 1 initiative RSE/ESG dans l’entreprise étudiée. Réfléchir : quel impact cela pourrait avoir sur sa performance financière (coûts, image, financement, rentabilité) ? (Préparer 5 slides max (ou 1 page) → à réutiliser dans le pitch final.
+
+Bibliographie indicative (ouvrages, articles de presse, articles académiques, sites web, etc.) :
+
+
+Evaluation du module : 
+Modalités et critères définis par le titre RNCP	Type(s) d’évaluation (étude cas, oral, partiel, etc.)	Description 	% de note finale 
+CC			
+EXAM			
+
+
+					M2 Finance d'Entreprise & Ingénierie Financière
+Matière : Analyse Financière et Stratégique de l'Entreprise
+Intervenant : GILLES Guillaume 
+Volume horaire : 18 
+Langue d’enseignement : Français
+
+Résumé du cours (objectifs pédagogiques et professionnels)
+Diagnostic sur les comptes individuels et sur les comptes consolidés. Étude de la profitabilité, de la solvabilité, de la structure financière et de la rentabilité (ROCE, ROE).  Analyse de sociétés cotées et de sociétés non cotées.
+
+Connaissances et compétences RNCP visées 
+Mener une veille économique, règlementaire, juridique et fiscale (projet de loi Finances, directive CSRD, normes IFRS, US Gap, AMF etc.) afin de construire une stratégie financière qui soutiendra l’activité et de développement de l’organisation dans le respect des normes nationales et internationales en vigueur dans son secteur et sur son marché. 
+Analyser le modèle économique de l’organisation, sa stratégie RSE, son marché afin d’identifier les forces, les faiblesses, les opportunités et les risques et de co-construire, avec la Direction, sa stratégie et son business plan.
+Piloter la réalisation des états financiers (bilan, compte de résultat et tableau de flux de trésorerie) en veillant à la qualité des données et au respect des normes (IFRS, GAAP…) afin de produire des documents fiables qui pourront être communiqués aux parties prenantes internes et externes et qui pourront servir de base à la prise de décisions. 
+Piloter la réalisation des déclarations de performance extra-financière en veillant à la qualité des données intégrées dans les critères ESG afin de produire des rapports qui présentent la stratégie RSE aux parties prenantes internes et externes. 
+Analyser les éléments financiers de l’organisation à partir des états produits précédemment via des ratios pertinents (ratios de liquidité, de solvabilité, de rentabilité, BFR etc.) et synthétiser les données afin d’évaluer sa solidité financière, sa solvabilité et sa performance. 
+Concevoir la stratégie financière de l’entreprise (planification financière à moyen et long terme, budgets, plan de trésorerie) en fonction des choix stratégiques de l’entreprise et de sa politique RSE, afin de valider avec la direction générale des objectifs communs, d’identifier les moyens pour les atteindre et de sécuriser l’activité de l’entreprise.
+Décliner la stratégie RSE de l’entreprise en critères ESG et piloter la mise en place de la mesure de ces critères afin de soutenir la politique RSE de l’entreprise, de la mesurer et de produire les déclarations de performance extra-financière. 
+Concevoir et animer le processus budgétaire en lien avec les différentes fonctions de l’organisation et avec le contrôle de gestion, en reflétant la stratégie définie afin d’atteindre les objectifs financiers et d’assurer sa performance financière.
+
+Contenu par séance et / ou plan de cours (notions, exercices, études de cas) 
+Séance	Date	Contenu de la séance	Type de cours	Travail préparatoire
+1	02/02			
+2	06/03			
+3	08/04			
+
+Bibliographie indicative (ouvrages, articles de presse, articles académiques, sites web, etc.) :
+
+
+Evaluation du module : 
+Modalités et critères définis par le titre RNCP	Type(s) d’évaluation (étude cas, oral, partiel, etc.)	Description 	% de note finale 
+CC			
+EXAM			
+ 
+
