@@ -1,0 +1,211 @@
+---
+title: "Quête 7️⃣ - Les Veilleurs du Marché"
+abstract: |
+  Simulation d'un comité de veille stratégique : chaque équipe présente
+  une évolution réglementaire ou de marché et analyse son impact sur la
+  stratégie financière d'entreprise.
+date: 2025-12-03
+---
+
+# Introduction
+
+Durée : **2h** | Équipes : **3–5 étudiants** | XP : **+150**
+
+**Objectifs pédagogiques**
+
+- Comprendre les principaux cadres réglementaires : CSRD, IFRS, AMF, Bâle III/IV.
+- Identifier les impacts financiers des évolutions réglementaires sur les entreprises.
+- Conduire et synthétiser une veille réglementaire et de marché.
+- Formuler des recommandations stratégiques fondées sur l'analyse réglementaire.
+
+---
+
+## Contexte narratif — Mission
+
+StratFin Corp tient son **comité trimestriel de veille stratégique**. Chaque
+équipe se voit attribuer un sujet réglementaire ou de marché et doit en
+briefer le comité sur ses implications pour les entreprises clientes du cabinet.
+
+Les Directeurs Associés attendent des analyses rigoureuses, des chiffrages
+d'impact et des préconisations concrètes. Le comité évaluera chaque
+présentation selon les mêmes critères qu'un rapport destiné à un client grand compte.
+
+::: {.callout-note}
+## 🎯 Votre rôle ce matin
+
+Vous êtes **analystes régulateurs seniors** au sein de StratFin Corp.
+Votre mission : surveiller l'environnement réglementaire, quantifier
+les impacts financiers pour vos clients, et proposer une réponse managériale adaptée.
+:::
+
+---
+
+## Sujets attribués par équipe
+
+Une équipe par thème. Le formateur procède à la répartition en début de séance.
+
+### Équipe 1 — CSRD (Corporate Sustainability Reporting Directive)
+
+Directive européenne rendant obligatoire le reporting extra-financier (ESG)
+pour les grandes entreprises de l'UE à partir de 2024–2025.
+
+**Points clés à traiter :**
+
+- Calendrier d'entrée en vigueur et périmètre des entreprises concernées
+- Obligations de reporting : double matérialité, normes ESRS
+- Impact sur le bilan et le compte de résultat (coûts de conformité,
+  dépréciation d'actifs, accès au financement vert)
+- Opportunités : green bonds, SLL, amélioration du coût de la dette ESG
+
+---
+
+### Équipe 2 — IFRS 16 (Contrats de location)
+
+Norme comptable internationale imposant la capitalisation des contrats de
+location opérationnelle au bilan.
+
+**Points clés à traiter :**
+
+- Mécanisme de retraitement : droit d'utilisation à l'actif, dette locative
+  au passif
+- Impact sur les ratios : gearing, EBITDA, ROCE, capacité de remboursement
+- Secteurs les plus touchés (distribution, transport, hôtellerie)
+- Ajustements analytiques pratiqués par les analystes crédit et agences de notation
+
+---
+
+### Équipe 3 — IFRS 9 (Instruments financiers)
+
+Norme de classification et d'évaluation des actifs financiers remplaçant IAS 39.
+
+**Points clés à traiter :**
+
+- Trois catégories de classification : coût amorti, juste valeur par OCI,
+  juste valeur par résultat
+- Modèle de dépréciation en pertes de crédit attendues (ECL)
+- Impact sur les banques et les corporates : volatilité du résultat,
+  provisions, fonds propres
+- Comparaison avant/après IFRS 9 sur un exemple chiffré
+
+---
+
+### Équipe 4 — AMF (Autorité des Marchés Financiers)
+
+Régulateur français des marchés financiers.
+
+**Points clés à traiter :**
+
+- Rôle et pouvoirs de l'AMF : surveillance, agrément, sanction
+- Obligations déclaratives pour les sociétés cotées (prospectus, DDR,
+  déclarations de franchissement de seuil)
+- Évolutions récentes : régulation des crypto-actifs (PSAN/PSCA),
+  révision MiFID II, réforme du marché primaire
+- Risques et sanctions en cas de non-conformité (exemples réels)
+
+---
+
+### Équipe 5 — Directive DORA / Risque cyber
+
+Règlement européen sur la résilience opérationnelle numérique du secteur financier
+(Digital Operational Resilience Act).
+
+**Points clés à traiter :**
+
+- Périmètre : établissements de crédit, assurances, PSP, fintechs
+- Exigences : tests de résilience ICT, gestion des risques tiers, reporting incident
+- Impact financier : budgets sécurité, pénalités, risque de réputation
+- Lien avec le coût de la dette et les notations de risque opérationnel
+
+---
+
+### Équipe 6 — Inflation et taux d'intérêt
+
+Environnement macroéconomique : remontée des taux directeurs de la BCE
+et ses conséquences sur les entreprises.
+
+**Points clés à traiter :**
+
+- Mécanisme de transmission : taux directeurs → taux de financement entreprises
+- Impact sur le coût du capital (WACC) et les valorisations (DCF)
+- Effets sur le BFR, la trésorerie et la capacité de remboursement
+- Secteurs gagnants / perdants (immobilier, private equity, utilities, distribution)
+
+---
+
+## Déroulement de la séance
+
+::: {.callout-note}
+## 📋 Déroulement type (120 minutes)
+
+| Phase | Durée | Activité |
+|:------|------:|:---------|
+| Briefing & répartition | 10 min | Attribution des sujets, consignes |
+| Recherche & analyse | 30 min | Travail en équipe sur le sujet assigné |
+| Rédaction de la fiche de veille | 20 min | Complétion du template ci-dessous |
+| Présentations (× nombre d'équipes) | 8 min/équipe | 5 min exposé + 3 min Q&R |
+| Synthèse collective | 10 min | Points communs, enseignements transversaux |
+:::
+
+---
+
+## Template — Fiche de veille réglementaire
+
+Chaque équipe complète la fiche suivante et la remet en PDF à l'issue de la séance.
+
+| Rubrique | Contenu |
+|:---------|:--------|
+| Réglementation / Évolution | |
+| Date d'entrée en vigueur | |
+| Périmètre (qui est concerné ?) | |
+| Principales obligations | |
+| Impact bilan | |
+| Impact compte de résultat | |
+| Impact ratios clés | |
+| Réponse managériale recommandée | |
+
+::: {.callout-tip}
+## 💡 Conseils pour la fiche de veille
+
+- **Soyez précis sur les dates** : distinguez les entreprises déjà soumises
+  de celles qui le seront prochainement.
+- **Chiffrez autant que possible** : « les coûts de conformité CSRD sont
+  estimés à 0,5–1% du CA pour les grands groupes » vaut mieux qu'« impact
+  significatif ».
+- **Liez l'analyse à des ratios concrets** : gearing, WACC, EBITDA,
+  capacité de remboursement.
+- **Citez au moins un exemple d'entreprise** ayant déjà publié un rapport
+  ou pris une mesure en réponse à la réglementation.
+:::
+
+---
+
+## Travaux demandés (à rendre)
+
+1. **Fiche de veille complétée** (1 page A4 max, format PDF).
+2. **Présentation orale de 5 minutes** devant le comité.
+3. **Une question écrite** posée à une autre équipe après sa présentation,
+   avec la réponse attendue (1–2 lignes).
+
+::: {.callout-warning}
+## ⏱️ Respect du temps de parole
+
+Le comité de veille est un exercice de communication professionnelle.
+Le temps de parole est strictement limité à **5 minutes**. Entraînez-vous
+à synthétiser : un bon brief dit l'essentiel, rien de plus.
+:::
+
+---
+
+## Critères d'évaluation
+
+| Critère | Pondération |
+|:--------|------------:|
+| Qualité et exactitude de l'analyse réglementaire | 40% |
+| Pertinence de l'évaluation des impacts financiers | 30% |
+| Clarté de la présentation orale | 20% |
+| Qualité des questions posées aux autres équipes | 10% |
+
+---
+
+Les Veilleurs du Marché savent que la réglementation n'est jamais une contrainte
+brute — c'est un signal stratégique à décoder avant les autres. À vos fiches !
